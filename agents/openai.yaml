@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plymouth Boot Theme"
+  short_description: "Create and safely activate boot themes"
+  default_prompt: "Use $plymouth-boot-theme to create and safely install a custom Plymouth boot theme."
